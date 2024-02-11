@@ -40,10 +40,6 @@ For each clustering algorithm and preprocessing scenario, the following metrics 
 - **Calinski-Harabasz Score**
 - **Davies-Bouldin Score**
 
-## Results
-
-The resulting CSV file, `result.csv`, contains the following evaluation metrics for each algorithm and preprocessing scenario.
-
 ## Evaluation Metrics
 
 For each clustering algorithm and preprocessing scenario, the following metrics are evaluated and stored in the CSV file:
@@ -53,6 +49,8 @@ For each clustering algorithm and preprocessing scenario, the following metrics 
 - **Davies-Bouldin Score**
 
 ## Results
+
+[assets/result.png]
 
 The resulting CSV file, `result.csv`, contains the evaluation metrics for each algorithm and preprocessing scenario. Each algorithm's performance is assessed under various conditions such as no data preprocessing, using normalization, transformation, PCA, and combinations of these techniques.
 
